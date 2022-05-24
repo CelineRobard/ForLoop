@@ -1,9 +1,11 @@
 # ForLoop
 
-F̶o̶r̶FunLoop : Programme console qui affiche des formes géométriques (NodeJS - JavaScript - Fonctions - Boucles For)
+Programme console qui affiche des formes géométriques (NodeJS - JavaScript - Fonctions - Boucles For)
 
 La procédure afficheForme() gère l'affichage d'une forme passée en paramètre.
+
 Les fonctions de forme Rectangle() et Carre() appellent la fonction Ligne() pour initialiser la "constante ligne" puis effectuent une boucle de concaténation.
+
 Les fonctions de forme TriangleRectangle() et TriangleIsocele() bouclent sur l'appel de la fonction Ligne() pour modifier la valeur de la "variable ligne" avant concaténation.
 La fonction Ligne() retourne une chaîne de caractères.
 
